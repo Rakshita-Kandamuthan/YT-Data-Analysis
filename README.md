@@ -28,7 +28,7 @@ Follow the below steps to step-up the environment.
 
 
    ```
-   git clone <repository_url>
+   git clone https://github.com/Rakshita-Kandamuthan/YT-Data-Analysis.git
    ```
 
 * **API Credentials:** To access the YouTube API, you need to obtain API credentials from the Google Developer Console. Follow the instructions provided by the YouTube API documentation (https://developers.google.com/youtube/v3/getting-started) to create a project, enable the YouTube Data API v3, and obtain the necessary API keys. Once you have the API keys, you will need to add them to the program's code. Open the file in a text editor and replace the placeholder values with your actual API keys.
