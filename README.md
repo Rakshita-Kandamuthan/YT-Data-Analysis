@@ -22,7 +22,7 @@ Once you have satisfied the prerequisites and installed the required libraries, 
 
 
 
-### Cole the Code from Respository:
+### Clone Code from Respository:
 Follow the below steps to step-up the environment.
 * **Clone the GitHub repository:** Run the following command line in command:
 
@@ -41,8 +41,7 @@ To run the YouTube Data Harvesting and Warehousing program, follow these step-by
 * Navigate to the directory where the program is located. For example:
 
    ```
-  cd /YT-Data-Analysis
-  
+  cd /YT-Data-Analysis  
    ```
 
 * (Optional) If you're using a virtual environment, activate it. This step may not be necessary if you're running the program without a virtual environment.
