@@ -22,7 +22,7 @@ Once you have satisfied the prerequisites and installed the required libraries, 
 
 
 
-### Get Code:
+### Cole the Code from Respository:
 Follow the below steps to step-up the environment.
 * **Clone the GitHub repository:** Run the following command line in command:
 
@@ -33,7 +33,7 @@ Follow the below steps to step-up the environment.
 
 * **API Credentials:** To access the YouTube API, you need to obtain API credentials from the Google Developer Console. Follow the instructions provided by the YouTube API documentation (https://developers.google.com/youtube/v3/getting-started) to create a project, enable the YouTube Data API v3, and obtain the necessary API keys. Once you have the API keys, you will need to add them to the program's code. Open the file in a text editor and replace the placeholder values with your actual API keys.
 
-### Steps to get the Data Aalysis:
+### Steps to run the Web App:
 To run the YouTube Data Harvesting and Warehousing program, follow these step-by-step instructions:
 
 * Open a terminal or command prompt.
@@ -42,8 +42,7 @@ To run the YouTube Data Harvesting and Warehousing program, follow these step-by
 
    ```
   cd /YT-Data-Analysis
-
-
+  
    ```
 
 * (Optional) If you're using a virtual environment, activate it. This step may not be necessary if you're running the program without a virtual environment.
@@ -53,6 +52,7 @@ To run the YouTube Data Harvesting and Warehousing program, follow these step-by
    ```
    streamlit run streamlit_ui.py
    ```
+### Steps to get the Data Analysis:
 * You can now view your Streamlit app in your browser. 
 * The app displays a title and a sidebar with options for analysis.
 * When the user selects a channel and clicks the "Analyze" button, the app executes an SQL query to retrieve the channel's details (subscribers, views, total videos).
